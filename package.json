@@ -1,0 +1,14 @@
+{
+  "name": "poracle-api",
+  "version": "1.0.0",
+  "description": "Api for poracle ecosystem",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "poracle"
+  ],
+  "author": "Kartul",
+  "license": "ISC"
+}
